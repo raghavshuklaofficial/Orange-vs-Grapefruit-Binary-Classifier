@@ -69,12 +69,6 @@ The dataset is small and ideal for educational purposes.
 | Model Evaluation        | Uses accuracy, confusion matrix, and cross-validation for assessment            |
 
 
-## Future Work
-
-- Experiment with more advanced models or additional features.
-- Deploy the classifier as a simple web application for interactive use.
-- Extend the dataset to include more fruit types.
-
 ## Author
 
 **Raghav Shukla**  
