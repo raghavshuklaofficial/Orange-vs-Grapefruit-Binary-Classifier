@@ -41,9 +41,9 @@ Orange-vs-Grapefruit-Binary-Classifier/
 ├── data/
 │   └── oranges_grapefruits.csv      # Dataset with labeled fruit samples
 ├── notebooks/
-│   └── Orange_vs_Grapefruit_Classifier.ipynb  # Interactive notebook
+│   └── Orange_vs_Grapefruit_Classifier.ipynb  #  notebook
 ├── src/
-│   └── classifier.py                # Main Python script for training and evaluation
+│   └── classifier.py                # Python script for training and evaluation
 ├── README.md                        # Project documentation
 └── requirements.txt                 # List of Python dependencies
 ```
