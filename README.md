@@ -84,7 +84,3 @@ B.Tech 4th Year Computer Science and Engineering Student
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
-*Academic project focused on hands-on machine learning and binary classification using Python — covering all major steps from data preprocessing to model evaluation.*
-
-[1] https://github.com/raghavshuklaofficial/Orange-vs-Grapefruit-Binary-C
