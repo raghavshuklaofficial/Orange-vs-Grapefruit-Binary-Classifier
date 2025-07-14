@@ -52,6 +52,7 @@ Orange-vs-Grapefruit-Binary-Classifier/
 
 The dataset contains measurements for both oranges and grapefruits. Each record includes:
 
+- **Color** (red , green , blue i.e. RGB Values)
 - **Weight** (in grams)
 - **Diameter** (in centimeters)
 - **Label** ("orange" or "grapefruit")
