@@ -1,6 +1,6 @@
 # Orange vs Grapefruit Binary Classifier
 
-This repository contains a **binary classifier** project developed in `Python` as part of my **B.Tech 4th Year Computer Science and Engineering** coursework at *Graphic Era University* .
+This repository contains a **binary classifier** project developed in `Python` during my **B.Tech 4th Year Computer Science and Engineering** course at *Graphic Era University* .
 
 --> The classifier distinguishes between oranges and grapefruits based on a simple, two-feature dataset. The project demonstrates a complete machine learning workflow, from data preprocessing to model evaluation and visualization.  
  ->Sample datasets and code are provided in the repository.
