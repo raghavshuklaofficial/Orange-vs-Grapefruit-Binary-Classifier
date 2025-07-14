@@ -68,15 +68,6 @@ The dataset is small and ideal for educational purposes.
 | Model Selection         | Compares Logistic Regression and Decision Tree classifiers                      |
 | Model Evaluation        | Uses accuracy, confusion matrix, and cross-validation for assessment            |
 
-## 📊 Results
-
-The classifier achieves high accuracy in distinguishing between oranges and grapefruits, demonstrating the effectiveness of basic machine learning models when paired with well-chosen features.
-
-## 💡 Learnings
-
-- Gained practical experience in feature selection and preprocessing.
-- Understood the trade-offs between different classifiers.
-- Improved skills in model evaluation and result interpretation.
 
 ## 🚀 Future Work
 
